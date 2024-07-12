@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 400px; /* Ajusta la altura según tus necesidades */
+  object-fit: cover; /* Esto asegura que la imagen cubra todo el espacio sin distorsionarse */
+}
+
+.carousel-img {
+  width: 100%;
+  height: 600px; /* Ajusta la altura según tus necesidades */
+  object-fit: cover; /* Esto asegura que la imagen cubra todo el espacio sin distorsionarse */
+}
